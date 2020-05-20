@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["함께 상상하면 현실이 됩니다.", "Matari Creative",],
+      strings: ["함께 상상하면,", "현실이 됩니다.", "Matari Creative",],
       typeSpeed: 100,
       loop: true,
     });
