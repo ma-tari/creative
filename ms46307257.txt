@@ -1,0 +1,5 @@
+﻿{
+  "Description": "웹 사이트 루트의 위치 Microsoft 365에 대한 도메인 소유권 확인 파일",
+  "Domain": "mataricreative.com",
+  "Id": "1a7b04e3-bb65-4cc4-a52f-546e4e09db94"
+}
